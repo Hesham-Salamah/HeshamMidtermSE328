@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hesham-MidTerm21</string>
+    <string name="goto21">Go to Act 2</string>
+    <string name="goto31">Go to Act 3</string>
+    <string name="goto12">Go to Act 1</string>
+    <string name="goto32">Go to Act 3</string>
+    <string name="goto13">Go to Act 1</string>
+    <string name="goto23">Go to Act 2</string>
+    <string name="act1">You Are In Activity 1</string>
+    <string name="act2">You Are In Activity 2</string>
+    <string name="act3">You Are In Activity 3</string>
+    <string name="sbmt">Submit</string>
+    <string name="date">Enter your birth date</string>
+    <string name="name">Insert your Name</string>
+</resources>

@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Hesham-midT1"
